@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "vazir";
+    src: url("../fonts/vazir/Vazir-Medium-FD-WOL.woff2")format("woff2"),
+         url("../fonts/vazir/Vazir-Medium-FD-WOL.woff")format("woff"),
+         url("../fonts/vazir/Vazir-Medium-FD-WOL.ttf")format("truetype");
+}
+
+body{
+    background-color:#f0f2f9;
+    color: #003566;
+}
+
+.dark-theme{
+    background-color: #19191b;
+    color: #ffffff;
+
+}
+
+
+.logo-img{
+    width: 3rem;
+    height: 2.5rem;
+}
+
+
+img{
+    width: 2.1rem;
+    height: 1.4rem;
+    margin-left: 0.5rem;
+    border-radius: 15%; 
+}
+
+
+ .red{
+    color: red;
+ }
+ 
+ .green{
+    color: green;
+ }
+
+ .gold{
+    color: #faa916;
+ }
+
+.shdw{
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+.card{
+     background-color:#012845; 
+    color : #ffffff;
+} 
+
+
+.dark-card{
+    background-color: #22333b;
+}
+#divCoin strong{
+     font-family: 'vazir'; 
+}
+
