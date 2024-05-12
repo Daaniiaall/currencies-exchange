@@ -63,7 +63,7 @@
         ,
         {
           id: 2,
-          name:'euroPrice' ,
+          name:'euro' ,
           image:'./images/euro.svg',
           price: euroPrice,
           change:euroChange 
